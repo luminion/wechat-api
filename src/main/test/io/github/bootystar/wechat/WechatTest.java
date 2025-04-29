@@ -30,7 +30,7 @@ public class WechatTest {
         AccessToken accessToken = oa.getStableAccessToken();
         System.out.println(accessToken);
 
-//        OfficialAccount wrongOa = new OfficialAccount("wxdcee357d389565c5", "0b190801e72f9db76512c978f99e79f");
+//        OfficialAccount wrongOa = new OfficialAccount("xxx", "xxx");
 //        try {
 //            AccessToken token = wrongOa.getAccessToken();
 //        }catch (WechatResponseException e){
